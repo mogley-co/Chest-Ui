@@ -440,3 +440,7 @@ When reporting an issue, include your Minecraft version, Script API versions, re
 This is an unofficial community project and is not affiliated with or endorsed by Mojang or Microsoft.
 
 Minecraft is a trademark of Microsoft or its affiliates.
+
+## Credits 
+
+[Mogley-co](https://github.com/mogley-co)
