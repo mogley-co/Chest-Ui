@@ -1,0 +1,8 @@
+{
+	"ui_defs": [
+		"ui/chest_server_form.json",
+		"ui/chest_inventory_system.json",
+		"ui/admin_panel.json",
+		"ui/mogley_dashboard.json"
+	]
+}
